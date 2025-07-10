@@ -1,0 +1,5 @@
+# explicação
+
+- muito simples
+- vamos apenas imprimir no console que vamos executar python
+- a próxima linha chama o python
